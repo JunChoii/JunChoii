@@ -1,7 +1,7 @@
 ### Hi I'm Jun Choi👋
 
 
-I am studying ✨_Full Stack Web Development_✨ at British Columbia Institute of Technology.
+I am studying ✨ _Full Stack Web Development_ ✨ at British Columbia Institute of Technology.
 
 ## 🔭 Skills
 [![Skills](https://skillicons.dev/icons?i=js,react,nodejs,tailwind,html,css,sqlite)](https://skillicons.dev)
