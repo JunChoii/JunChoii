@@ -1,5 +1,4 @@
-### Hi I'm Jun Choi👋
-
+![Jun Cover](https://github.com/JunChoii/JunChoii/blob/main/Jun_banner.png)
 
 I am studying ✨ _Full Stack Web Development_ ✨ at British Columbia Institute of Technology.
 
