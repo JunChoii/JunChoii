@@ -1,12 +1,11 @@
 ![Jun Cover](https://github.com/JunChoii/JunChoii/blob/main/Jun_banner.png)
 
-I am studying ✨ _Full Stack Web Development_ ✨ at British Columbia Institute of Technology.
 
 ## 🔭 Skills
-[![Skills](https://skillicons.dev/icons?i=js,react,nodejs,tailwind,html,css,sqlite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,dotnet,tailwind,html,css,sqlite)](https://skillicons.dev)
 
-## 🌱 I want to learn:
-[![NextLevel](https://skillicons.dev/icons?i=php,python,unity,dotnet,tensorflow,vercel)](https://skillicons.dev)
+## 🌱 Actively learning:
+[![NextLevel](https://skillicons.dev/icons?i=python,unity,tensorflow,vercel)](https://skillicons.dev)
 
 <!--
 Here are some ideas to get you started:
