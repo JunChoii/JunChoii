@@ -2,10 +2,10 @@
 
 
 ## 🔭 Skills
-[![Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,dotnet,tailwind,html,css,sqlite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,dotnet,tailwind,html,css,sqlite,firebase,redux)](https://skillicons.dev)
 
 ## 🌱 Actively learning:
-[![NextLevel](https://skillicons.dev/icons?i=python,unity,tensorflow,vercel)](https://skillicons.dev)
+[![NextLevel](https://skillicons.dev/icons?i=python,unity,tensorflow)](https://skillicons.dev)
 
 <!--
 Here are some ideas to get you started:
